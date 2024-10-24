@@ -67,7 +67,7 @@ body {
   width: 730px;
 }
 
-@media(max-width:480px){
+@media(max-width:480px min-width:370px){
     body {
    background: url("3RD CHOICE.JPG");
    background-size: cover;
